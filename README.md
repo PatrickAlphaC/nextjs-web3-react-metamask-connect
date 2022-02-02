@@ -13,7 +13,7 @@ Video Coming soon...
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
     - [Important localhost note](#important-localhost-note)
-- [Resources](#resources)
+- [Full Examples](#full-examples)
 - [Thank you!](#thank-you)
 
 Video coming soon...
@@ -81,10 +81,9 @@ You'll be brought to the UI after running `yarn dev` which has exactly 2 buttons
 
 If you use metamask with a local network, everytime you shut down your node, you'll need to reset your account. Settings -> Advanced -> Reset account. Don't do this with a metamask you have real funds in.
 
-# Resources
+# Full Examples
 
 - [next-web3-boilerplate](https://github.com/mirshko/next-web3-boilerplate)
-- [Shmoji web3-react-example](https://github.com/Shmoji/web3-react-example)
 - [web3-react-example](https://github.com/NoahZinsmeister/web3-react/tree/main/packages/example)
 - [Aave UI](https://github.com/aave/aave-ui)
 - [Uniswap UI](https://github.com/Uniswap/interface)
